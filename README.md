@@ -1,1 +1,1 @@
-### SNU LikeLion advanced seminar Django todolist back
+# SNU LikeLion advanced seminar Django todolist back
